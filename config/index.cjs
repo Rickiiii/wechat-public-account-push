@@ -7,7 +7,7 @@
  */
 const USER_CONFIG = {
   
-  USE_PASSAGE: 'push-deer',
+  USE_PASSAGE: 'wechat-test',
 
   // 使用微信测试号：公众号APP_ID
   APP_ID: 'wxa44f11b96c480350',
