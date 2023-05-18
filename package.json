@@ -36,6 +36,11 @@
     "lunar-javascript": "^1.2.33",
     "node-schedule": "^2.1.0"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
   "devDependencies": {
     "@babel/core": "^7.19.1",
     "@babel/eslint-parser": "^7.19.1",
