@@ -7,13 +7,14 @@
  */
 const USER_CONFIG = {
   
-  USE_PASSAGE: 'wechat-test',
+  // USE_PASSAGE: 'wechat-test',
+  USE_PASSAGE: 'push-deer',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxa44f11b96c480350',
+  // APP_ID: 'wxa44f11b96c480350',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: 'c745d289f1b2d1f6018c17bcbe876506',
+  // APP_SECRET: 'c745d289f1b2d1f6018c17bcbe876506',
 
   PROVINCE: '浙江',
   CITY: '杭州',
@@ -23,9 +24,11 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ouCLN5z8OVaHCaJZyp5vQiknKlaE',
+      id: 'PDU22773Tafxr8SViNO6RYdPUEmPalOQWfoFFR6BX',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '-NMbLKbvmigXhBkxdOmiDcL8KUNA3CpoR8ROpHzsEy4',
+      // useTemplateId: '-NMbLKbvmigXhBkxdOmiDcL8KUNA3CpoR8ROpHzsEy4',
+      // push-deer id
+      useTemplateId: '0001',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
