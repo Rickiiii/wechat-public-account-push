@@ -15,18 +15,26 @@ const TEMPLATE_CONFIG = [
       天气：{{weather.DATA}}
       
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
-      
+
       风向: {{wind_direction.DATA}}
       
       风级: {{wind_scale.DATA}}
+
+      预防感冒梯形: {{ganmao.DATA}}
+      
+      天气温馨语:{{notice.DATA}}
       
       {{comprehensive_horoscope.DATA}}
       
       ---
       
-      今天是我们相识的第{{love_day.DATA}}天
-      
+      么么哒！
+      今天是我们在一起的的第{{love_day.DATA}}天
+      爱你！
+
       {{birthday_message.DATA}}
+
+      土味情话:{{earthy_love_words.DATA}}
       
       ---
       
