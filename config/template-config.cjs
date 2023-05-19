@@ -27,9 +27,11 @@ const TEMPLATE_CONFIG = [
       {{comprehensive_horoscope.DATA}}
       
       ---
-      
+
       么么哒！
+
       今天是我们在一起的的第{{love_day.DATA}}天
+      
       爱你！
 
       {{birthday_message.DATA}}
